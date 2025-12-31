@@ -5,7 +5,7 @@ I am a Computer Science student with a strong foundation in Java, OOP, and SQL. 
 
 | Project | Tech Stack | Project Highlight | Repository |
 | :--- | :--- | :--- | :--- |
-| **🎬 CineMatch** | Spring Boot, Java, REST | **Booking System:** Managed movie ticket reservations and seat availability. | [View Repo](https://github.com/givijain1234/cinematch-springboot) |
+| **🎬 CineMatch** | Spring Boot, Java, REST API | **Booking System:** Managed movie ticket reservations and seat availability. | [View Repo](https://github.com/givijain1234/cinematch-springboot) |
 | **♟️ Chess Engine** | Java, OOP | **Game Logic:** Developed a console-based game with full move validation and rules. | [View Repo](https://github.com/givijain1234/chess-java-console) |
 | **🅿️ Parking Lot** | Java, Design Patterns | **System Design:** Built a modular system to manage vehicle entries and exits. | [View Repo](https://github.com/givijain1234/parking-lot-system) |
 | **🔗 URL Shortener** | Java, SQL | **Data Storage:** Created a service to convert and store long links in a database. | [View Repo](https://github.com/givijain1234/url-shortener-java) |
@@ -35,7 +35,7 @@ I am a Computer Science student with a strong foundation in Java, OOP, and SQL. 
 ### 🛠️ Tech Stack & Skills
 
 * **Languages:** Java, SQL, HTML, CSS, JavaScript.
-* **Core Skills:** Data Structures (DSA), Object-Oriented Programming (OOP), Database Management (DBMS), Operating Systems (OS)
+* **Core Skills:** Data Structures (DSA), Object-Oriented Programming (OOP), Database Management (DBMS), Operating Systems (OS), System Design.
 * **Tools:** Spring Boot, Git, GitHub, Postman.
 
 ---
